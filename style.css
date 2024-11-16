@@ -1,0 +1,31 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header {
+    background-color: rgb(175, 175, 248);
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.tip {
+    padding: 10px;
+    margin: 20px;
+    border: 2px solid rgb(175, 175, 248);
+    background-color: rgb(216, 216, 230);
+    height: 200px;
+    width: 200px;
+}
+
+#tip1 {
+    float: left;
+}
+
+#tip2 {
+    float: right;
+}
